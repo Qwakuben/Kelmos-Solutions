@@ -1,0 +1,26 @@
+h1.h2{
+    text-align: center;
+    background-color: blueviolet;
+    color: azure;
+    box-shadow: 10px 10px;
+    
+}
+div.steps{
+    width: 250px;
+    box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 4px 10px 0 rgba(0, 0, 0, 0.10);
+    
+ 
+}
+
+
+div.col-unlimited{
+    box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 4px 10px 0 rgba(0, 0, 0, 0.10);
+    cursor: pointer;
+    
+}
+div.col-unlimited:hover{
+    transform: scale(1.1);
+    transform: scale(1.1);
+    transform: scale(1.1);
+}
+
